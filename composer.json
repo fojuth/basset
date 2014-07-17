@@ -1,5 +1,5 @@
 {
-    "name": "jasonlewis/basset",
+    "name": "fojuth/basset",
     "description": "A better asset management package for Laravel.",
     "keywords": ["assets", "basset", "laravel"],
     "license": "BSD-2-Clause",
@@ -7,6 +7,10 @@
         {
             "name": "Jason Lewis",
             "email": "jason.lewis1991@gmail.com"
+        },
+        {
+            "name": "Kamil Fojuth",
+            "email": "fojuth@gmail.com"
         }
     ],
     "require": {
